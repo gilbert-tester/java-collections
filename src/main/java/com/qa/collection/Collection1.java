@@ -7,7 +7,15 @@ public class Collection1 {
 		
 		System.out.println("Collections");
 		
+		sum();
+	}
+	
+	public static void sum() {
 		
+		int i =2;
+		int k = 3;
+		
+		System.out.println(i+k);
 	}
 
 }
